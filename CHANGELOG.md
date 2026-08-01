@@ -6,14 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.122.0](https://github.com/promptfoo/promptfoo/compare/0.121.20...0.122.0) (2026-08-01)
 
-
 ### ⚠ BREAKING CHANGES
 
-* drop Node.js 20 support ([#10260](https://github.com/promptfoo/promptfoo/issues/10260))
+- drop Node.js 20 support ([#10260](https://github.com/promptfoo/promptfoo/issues/10260))
 
 ### Miscellaneous Chores
 
-* drop Node.js 20 support ([#10260](https://github.com/promptfoo/promptfoo/issues/10260)) ([26b725b](https://github.com/promptfoo/promptfoo/commit/26b725bd9496351ef269380c9fd83b9c2c338a0e))
+- drop Node.js 20 support ([#10260](https://github.com/promptfoo/promptfoo/issues/10260)) ([26b725b](https://github.com/promptfoo/promptfoo/commit/26b725bd9496351ef269380c9fd83b9c2c338a0e))
 
 ## [0.121.20](https://github.com/promptfoo/promptfoo/compare/0.121.19...0.121.20) (2026-07-30)
 
